@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "G:\\Project\\Xxx\\library_base\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-zh-rHK\\values-zh-rHK.xml",
+            "map": [
+                {
+                    "source": "G:\\Gradle\\gradle-4.1\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\a3d5bf72f5452385541787b9271c443d\\res\\values-zh-rHK\\values-zh-rHK.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "101",
+                        "endOffsets": "152"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1810",
+                        "endColumns": "101",
+                        "endOffsets": "1907"
+                    }
+                },
+                {
+                    "source": "G:\\Gradle\\gradle-4.1\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\ff095c73ab0dbc172920f679d0f91234\\res\\values-zh-rHK\\values-zh-rHK.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,200,293,393,475,572,680,756,832,910,1006,1102,1197,1294,1389,1487,1638,1732",
+                        "endColumns": "94,92,99,81,96,107,75,75,77,95,95,94,96,94,97,150,93,77",
+                        "endOffsets": "195,288,388,470,567,675,751,827,905,1001,1097,1192,1289,1384,1482,1633,1727,1805"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "G:\\Project\\XxxChat\\library_base\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-zh-rHK\\values-zh-rHK.xml",
+            "map": [
+                {
+                    "source": "G:\\Gradle\\gradle-4.4.1\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\403b0e5418298fc6fb94c43e289cc529\\res\\values-zh-rHK\\values-zh-rHK.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,200,293,393,475,572,680,756,832,910,1006,1102,1197,1294,1389,1487,1638,1732",
+                        "endColumns": "94,92,99,81,96,107,75,75,77,95,95,94,96,94,97,150,93,77",
+                        "endOffsets": "195,288,388,470,567,675,751,827,905,1001,1097,1192,1289,1384,1482,1633,1727,1805"
+                    }
+                },
+                {
+                    "source": "G:\\Gradle\\gradle-4.4.1\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\bb3e03cebf1180874ef9e0178da67274\\res\\values-zh-rHK\\values-zh-rHK.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "101",
+                        "endOffsets": "152"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1810",
+                        "endColumns": "101",
+                        "endOffsets": "1907"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Xxx</string>
+
+    <string name="menu_my_1">签到</string>
+    <string name="menu_my_2">我的推荐</string>
+    <string name="menu_my_3">我的银行卡</string>
+    <string name="menu_my_4">我的支付宝</string>
+    <string name="menu_my_5">推广海报</string>
+    <string name="menu_my_6">客服中心</string>
+
+</resources>

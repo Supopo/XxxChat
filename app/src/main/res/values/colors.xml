@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF4081</color> //系统自带导航栏颜色
+    <color name="colorPrimaryDark">#FF0000</color> //状态栏
+    <color name="colorAccent">#FF4081</color> //控件选中后颜色
+</resources>

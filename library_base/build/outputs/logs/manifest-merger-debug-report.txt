@@ -1,0 +1,45 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\Project\XxxChat\library_base\src\main\AndroidManifest.xml:1:1-43:12
+INJECTED from G:\Project\XxxChat\library_base\src\main\AndroidManifest.xml:1:1-43:12
+INJECTED from G:\Project\XxxChat\library_base\src\main\AndroidManifest.xml:1:1-43:12
+INJECTED from G:\Project\XxxChat\library_base\src\main\AndroidManifest.xml:1:1-43:12
+INJECTED from G:\Project\XxxChat\library_base\src\main\AndroidManifest.xml:1:1-43:12
+INJECTED from G:\Project\XxxChat\library_base\src\main\AndroidManifest.xml:1:1-43:12
+INJECTED from G:\Project\XxxChat\library_base\src\main\AndroidManifest.xml:1:1-43:12
+	package
+		ADDED from G:\Project\XxxChat\library_base\src\main\AndroidManifest.xml:2:11-39
+		INJECTED from G:\Project\XxxChat\library_base\src\main\AndroidManifest.xml
+		INJECTED from G:\Project\XxxChat\library_base\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\Project\XxxChat\library_base\src\main\AndroidManifest.xml
+		ADDED from G:\Project\XxxChat\library_base\src\main\AndroidManifest.xml:1:1-43:12
+		INJECTED from G:\Project\XxxChat\library_base\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from G:\Project\XxxChat\library_base\src\main\AndroidManifest.xml
+		ADDED from G:\Project\XxxChat\library_base\src\main\AndroidManifest.xml:1:1-43:12
+		INJECTED from G:\Project\XxxChat\library_base\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\Project\XxxChat\library_base\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from G:\Project\XxxChat\library_base\src\main\AndroidManifest.xml:29:5-41:19
+	android:supportsRtl
+		ADDED from G:\Project\XxxChat\library_base\src\main\AndroidManifest.xml:32:9-35
+	android:label
+		ADDED from G:\Project\XxxChat\library_base\src\main\AndroidManifest.xml:31:9-41
+	android:allowBackup
+		ADDED from G:\Project\XxxChat\library_base\src\main\AndroidManifest.xml:30:9-35
+uses-sdk
+INJECTED from G:\Project\XxxChat\library_base\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\Project\XxxChat\library_base\src\main\AndroidManifest.xml
+INJECTED from G:\Project\XxxChat\library_base\src\main\AndroidManifest.xml
+INJECTED from G:\Project\XxxChat\library_base\src\main\AndroidManifest.xml
+INJECTED from G:\Project\XxxChat\library_base\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from G:\Project\XxxChat\library_base\src\main\AndroidManifest.xml
+		ADDED from G:\Project\XxxChat\library_base\src\main\AndroidManifest.xml
+		INJECTED from G:\Project\XxxChat\library_base\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\Project\XxxChat\library_base\src\main\AndroidManifest.xml
+		ADDED from G:\Project\XxxChat\library_base\src\main\AndroidManifest.xml
+		INJECTED from G:\Project\XxxChat\library_base\src\main\AndroidManifest.xml
